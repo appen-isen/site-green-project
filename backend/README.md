@@ -143,3 +143,5 @@ Appen'Isen
 ---
 
 **Version :** 1.0.0
+
+💡 **Astuce :** Utilisez `npm run check:fix` avant chaque commit pour garantir la qualité du code !
